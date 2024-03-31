@@ -1,0 +1,28 @@
+.back{
+    background-color: navy;
+}
+.font{
+    font-size: 15px;
+}
+/* main{
+    height: calc(100vh - 96px);
+} */
+.font-1{
+font-size: 25px;    
+
+}
+.ppo{
+    width: 85%; 
+}
+.pad{
+    padding: 7px 4px;
+   
+}
+.output{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+}
+ol{
+    display: inline-block;
+}
